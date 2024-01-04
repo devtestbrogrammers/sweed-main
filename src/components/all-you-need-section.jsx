@@ -417,7 +417,7 @@ export default function AllYouNeed() {
                   >
                     <span className='t-heading-6 lg:!leading-[26px] text-white opacity-90'>E-Commerce</span>
                     <Image
-                      src="/images/all_you_need/point_of_sale.png"
+                      src="/images/all_you_need/e_commerce.png"
                       alt=""
                       width={0}
                       height={0}
@@ -454,7 +454,7 @@ export default function AllYouNeed() {
                   >
                     <span className='t-heading-6 lg:!leading-[26px] text-white opacity-90'>Marketing & Loyalty</span>
                     <Image
-                      src="/images/all_you_need/point_of_sale.png"
+                      src="/images/all_you_need/marketing_loyalty.png"
                       alt=""
                       width={0}
                       height={0}
@@ -473,7 +473,7 @@ export default function AllYouNeed() {
                   >
                     <span className='t-heading-6 lg:!leading-[26px] text-white opacity-90'>Data & Business <br/>Intelligence</span>
                     <Image
-                      src="/images/all_you_need/point_of_sale.png"
+                      src="/images/all_you_need/data_business.png"
                       alt=""
                       width={0}
                       height={0}
@@ -510,7 +510,7 @@ export default function AllYouNeed() {
                   >
                     <span className='t-heading-6 lg:!leading-[26px] text-white opacity-90'>Inventory <br/>Management</span>
                     <Image
-                      src="/images/all_you_need/point_of_sale.png"
+                      src="/images/all_you_need/inventory_management.png"
                       alt=""
                       width={0}
                       height={0}
@@ -529,7 +529,7 @@ export default function AllYouNeed() {
                   >
                     <span className='t-heading-6 lg:!leading-[26px] text-white opacity-90'>Customer <br/>Management</span>
                     <Image
-                      src="/images/all_you_need/point_of_sale.png"
+                      src="/images/all_you_need/customer_management.png"
                       alt=""
                       width={0}
                       height={0}
@@ -566,7 +566,7 @@ export default function AllYouNeed() {
                   >
                     <span className='t-heading-6 lg:!leading-[26px] text-white opacity-90'>Delivery</span>
                     <Image
-                      src="/images/all_you_need/point_of_sale.png"
+                      src="/images/all_you_need/delivery.png"
                       alt=""
                       width={0}
                       height={0}
@@ -585,7 +585,7 @@ export default function AllYouNeed() {
                   >
                     <span className='t-heading-6 lg:!leading-[26px] text-white opacity-90'>Integrations</span>
                     <Image
-                      src="/images/all_you_need/point_of_sale.png"
+                      src="/images/all_you_need/integrations.png"
                       alt=""
                       width={0}
                       height={0}
@@ -622,7 +622,7 @@ export default function AllYouNeed() {
                   >
                     <span className='t-heading-6 lg:!leading-[26px] text-white opacity-90'>Discount Engine</span>
                     <Image
-                      src="/images/all_you_need/point_of_sale.png"
+                      src="/images/all_you_need/discount_engine.png"
                       alt=""
                       width={0}
                       height={0}
@@ -641,7 +641,7 @@ export default function AllYouNeed() {
                   >
                     <span className='t-heading-6 lg:!leading-[26px] text-white opacity-90'>Integrated <br/>Payments</span>
                     <Image
-                      src="/images/all_you_need/point_of_sale.png"
+                      src="/images/all_you_need/integrated_payments.png"
                       alt=""
                       width={0}
                       height={0}
@@ -678,7 +678,7 @@ export default function AllYouNeed() {
                   >
                     <span className='t-heading-6 lg:!leading-[26px] text-white opacity-90'>In-Store Screens</span>
                     <Image
-                      src="/images/all_you_need/point_of_sale.png"
+                      src="/images/all_you_need/in_store_screens.png"
                       alt=""
                       width={0}
                       height={0}
@@ -697,7 +697,7 @@ export default function AllYouNeed() {
                   >
                     <span className='t-heading-6 lg:!leading-[26px] text-white opacity-90'>Distribution & <br/>Logistics</span>
                     <Image
-                      src="/images/all_you_need/point_of_sale.png"
+                      src="/images/all_you_need/distribution_logistics.png"
                       alt=""
                       width={0}
                       height={0}
