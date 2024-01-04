@@ -390,8 +390,8 @@ export default function AllYouNeed() {
               <div className='relative w-full flex pt-[30px] z-[9]'>
                 <div className='w-[50%]'>
                   <motion.div
-                    initial={{ scale: 0 }}
-                    whileInView={{ scale: 1 }}
+                    initial={{ opacity: 0 }}
+                    whileInView={{ opacity: 1 }}
                     viewport={{ once: true }}
                     transition={{ duration: 0.5, delay: 0 }}
                     style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "flex-end", height: "100%", gap: "15px" }}
@@ -409,8 +409,8 @@ export default function AllYouNeed() {
                 </div>
                 <div className='w-[50%]'>
                   <motion.div
-                    initial={{ scale: 0 }}
-                    whileInView={{ scale: 1 }}
+                    initial={{ opacity: 0 }}
+                    whileInView={{ opacity: 1 }}
                     viewport={{ once: true }}
                     transition={{ duration: 0.5, delay: 0.5 }}
                     style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "flex-end", height: "100%", gap: "15px" }}
@@ -446,8 +446,8 @@ export default function AllYouNeed() {
               <div className='relative w-full flex pt-[30px] z-[9]'>
                 <div className='w-[50%]'>
                   <motion.div
-                    initial={{ scale: 0 }}
-                    whileInView={{ scale: 1 }}
+                    initial={{ opacity: 0 }}
+                    whileInView={{ opacity: 1 }}
                     viewport={{ once: true }}
                     transition={{ duration: 0.5, delay: 0 }}
                     style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "flex-end", height: "100%", gap: "15px" }}
@@ -465,8 +465,8 @@ export default function AllYouNeed() {
                 </div>
                 <div className='w-[50%]'>
                   <motion.div
-                    initial={{ scale: 0 }}
-                    whileInView={{ scale: 1 }}
+                    initial={{ opacity: 0 }}
+                    whileInView={{ opacity: 1 }}
                     viewport={{ once: true }}
                     transition={{ duration: 0.5, delay: 0.5 }}
                     style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "flex-end", height: "100%", gap: "15px" }}
@@ -502,8 +502,8 @@ export default function AllYouNeed() {
               <div className='relative w-full flex pt-[30px] z-[9]'>
                 <div className='w-[50%]'>
                   <motion.div
-                    initial={{ scale: 0 }}
-                    whileInView={{ scale: 1 }}
+                    initial={{ opacity: 0 }}
+                    whileInView={{ opacity: 1 }}
                     viewport={{ once: true }}
                     transition={{ duration: 0.5, delay: 0 }}
                     style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "flex-end", height: "100%", gap: "15px" }}
@@ -521,8 +521,8 @@ export default function AllYouNeed() {
                 </div>
                 <div className='w-[50%]'>
                   <motion.div
-                    initial={{ scale: 0 }}
-                    whileInView={{ scale: 1 }}
+                    initial={{ opacity: 0 }}
+                    whileInView={{ opacity: 1 }}
                     viewport={{ once: true }}
                     transition={{ duration: 0.5, delay: 0.5 }}
                     style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "flex-end", height: "100%", gap: "15px" }}
@@ -558,8 +558,8 @@ export default function AllYouNeed() {
               <div className='relative w-full flex pt-[30px] z-[9]'>
                 <div className='w-[50%]'>
                   <motion.div
-                    initial={{ scale: 0 }}
-                    whileInView={{ scale: 1 }}
+                    initial={{ opacity: 0 }}
+                    whileInView={{ opacity: 1 }}
                     viewport={{ once: true }}
                     transition={{ duration: 0.5, delay: 0 }}
                     style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "flex-end", height: "100%", gap: "15px" }}
@@ -577,8 +577,8 @@ export default function AllYouNeed() {
                 </div>
                 <div className='w-[50%]'>
                   <motion.div
-                    initial={{ scale: 0 }}
-                    whileInView={{ scale: 1 }}
+                    initial={{ opacity: 0 }}
+                    whileInView={{ opacity: 1 }}
                     viewport={{ once: true }}
                     transition={{ duration: 0.5, delay: 0.5 }}
                     style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "flex-end", height: "100%", gap: "15px" }}
@@ -614,8 +614,8 @@ export default function AllYouNeed() {
               <div className='relative w-full flex pt-[30px] z-[9]'>
                 <div className='w-[50%]'>
                   <motion.div
-                    initial={{ scale: 0 }}
-                    whileInView={{ scale: 1 }}
+                    initial={{ opacity: 0 }}
+                    whileInView={{ opacity: 1 }}
                     viewport={{ once: true }}
                     transition={{ duration: 0.5, delay: 0 }}
                     style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "flex-end", height: "100%", gap: "15px" }}
@@ -633,8 +633,8 @@ export default function AllYouNeed() {
                 </div>
                 <div className='w-[50%]'>
                   <motion.div
-                    initial={{ scale: 0 }}
-                    whileInView={{ scale: 1 }}
+                    initial={{ opacity: 0 }}
+                    whileInView={{ opacity: 1 }}
                     viewport={{ once: true }}
                     transition={{ duration: 0.5, delay: 0.5 }}
                     style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "flex-end", height: "100%", gap: "15px" }}
@@ -670,8 +670,8 @@ export default function AllYouNeed() {
               <div className='relative w-full flex pt-[30px] z-[9]'>
                 <div className='w-[50%]'>
                   <motion.div
-                    initial={{ scale: 0 }}
-                    whileInView={{ scale: 1 }}
+                    initial={{ opacity: 0 }}
+                    whileInView={{ opacity: 1 }}
                     viewport={{ once: true }}
                     transition={{ duration: 0.5, delay: 0 }}
                     style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "flex-end", height: "100%", gap: "15px" }}
@@ -689,8 +689,8 @@ export default function AllYouNeed() {
                 </div>
                 <div className='w-[50%]'>
                   <motion.div
-                    initial={{ scale: 0 }}
-                    whileInView={{ scale: 1 }}
+                    initial={{ opacity: 0 }}
+                    whileInView={{ opacity: 1 }}
                     viewport={{ once: true }}
                     transition={{ duration: 0.5, delay: 0.5 }}
                     style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "flex-end", height: "100%", gap: "15px" }}
