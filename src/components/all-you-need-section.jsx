@@ -381,11 +381,11 @@ export default function AllYouNeed() {
           <div className="max-w-[310px] mx-auto text-center lg:hidden">
             <div class="relative">
               <motion.div
-                initial={{ opacity: 0 }}
-                whileInView={{ opacity: 1 }}
+                initial={{ width: 0, height: 0 }}
+                whileInView={{ width: "70px", height: "0" }}
                 viewport={{ once: true }}
                 transition={{ duration: 2, delay: 0 }}
-                className="w-[70px] absolute top-[110px] left-[120px] border-[7px] border-[#74a4a3] border-solid border-l-0 border-b-0 border-r-0"
+                className="absolute top-[110px] left-[120px] border-[7px] border-[#74a4a3] border-solid border-l-0 border-b-0 border-r-0"
               />
               <div className='relative w-full flex pt-[30px] z-[9]'>
                 <div className='w-[50%]'>
@@ -430,18 +430,18 @@ export default function AllYouNeed() {
             </div>
             <div class="relative">
               <motion.div
-                initial={{ opacity: 0 }}
-                whileInView={{ opacity: 1 }}
+                initial={{ width: 0, height: 0 }}
+                whileInView={{ width: 0, height: "100px" }}
                 viewport={{ once: true }}
                 transition={{ duration: 2, delay: 0 }}
-                className="h-[100px] absolute top-[-10px] right-[75px] border-[7px] border-[#74a4a3] border-solid border-t-0 border-b-0 border-r-0"
+                className="absolute top-[-10px] right-[75px] border-[7px] border-[#74a4a3] border-solid border-t-0 border-b-0 border-r-0"
               />
               <motion.div
-                initial={{ opacity: 0 }}
-                whileInView={{ opacity: 1 }}
+                initial={{ width: 0, height: 0 }}
+                whileInView={{ width: "70px", height: "0" }}
                 viewport={{ once: true }}
                 transition={{ duration: 2, delay: 0 }}
-                className="w-[70px] absolute top-[130px] right-[120px] border-[7px] border-[#74a4a3] border-solid border-l-0 border-b-0 border-r-0"
+                className="absolute top-[130px] right-[120px] border-[7px] border-[#74a4a3] border-solid border-l-0 border-b-0 border-r-0"
               />
               <div className='relative w-full flex pt-[30px] z-[9]'>
                 <div className='w-[50%]'>
@@ -486,18 +486,18 @@ export default function AllYouNeed() {
             </div>
             <div class="relative">
               <motion.div
-                initial={{ opacity: 0 }}
-                whileInView={{ opacity: 1 }}
+                initial={{ width: 0, height: 0 }}
+                whileInView={{ width: 0, height: "100px" }}
                 viewport={{ once: true }}
                 transition={{ duration: 2, delay: 0 }}
-                className="h-[100px] absolute top-[-10px] left-[75px] border-[7px] border-[#74a4a3] border-solid border-t-0 border-b-0 border-r-0"
+                className="absolute top-[-10px] left-[75px] border-[7px] border-[#74a4a3] border-solid border-t-0 border-b-0 border-r-0"
               />
               <motion.div
-                initial={{ opacity: 0 }}
-                whileInView={{ opacity: 1 }}
+                initial={{ width: 0, height: 0 }}
+                whileInView={{ width: "70px", height: "0" }}
                 viewport={{ once: true }}
                 transition={{ duration: 2, delay: 0 }}
-                className="w-[70px] absolute top-[130px] left-[120px] border-[7px] border-[#74a4a3] border-solid border-l-0 border-b-0 border-r-0"
+                className="absolute top-[130px] left-[120px] border-[7px] border-[#74a4a3] border-solid border-l-0 border-b-0 border-r-0"
               />
               <div className='relative w-full flex pt-[30px] z-[9]'>
                 <div className='w-[50%]'>
@@ -542,18 +542,18 @@ export default function AllYouNeed() {
             </div>
             <div class="relative">
               <motion.div
-                initial={{ opacity: 0 }}
-                whileInView={{ opacity: 1 }}
+                initial={{ width: 0, height: 0 }}
+                whileInView={{ width: 0, height: "100px" }}
                 viewport={{ once: true }}
                 transition={{ duration: 2, delay: 0 }}
-                className="h-[100px] absolute top-[-10px] right-[75px] border-[7px] border-[#74a4a3] border-solid border-t-0 border-b-0 border-r-0"
+                className="absolute top-[-10px] right-[75px] border-[7px] border-[#74a4a3] border-solid border-t-0 border-b-0 border-r-0"
               />
               <motion.div
-                initial={{ opacity: 0 }}
-                whileInView={{ opacity: 1 }}
+                initial={{ width: 0, height: 0 }}
+                whileInView={{ width: "70px", height: "0" }}
                 viewport={{ once: true }}
                 transition={{ duration: 2, delay: 0 }}
-                className="w-[70px] absolute top-[110px] right-[120px] border-[7px] border-[#74a4a3] border-solid border-l-0 border-b-0 border-r-0"
+                className="absolute top-[110px] right-[120px] border-[7px] border-[#74a4a3] border-solid border-l-0 border-b-0 border-r-0"
               />
               <div className='relative w-full flex pt-[30px] z-[9]'>
                 <div className='w-[50%]'>
@@ -598,18 +598,18 @@ export default function AllYouNeed() {
             </div>
             <div class="relative">
               <motion.div
-                initial={{ opacity: 0 }}
-                whileInView={{ opacity: 1 }}
+                initial={{ width: 0, height: 0 }}
+                whileInView={{ width: 0, height: "100px" }}
                 viewport={{ once: true }}
                 transition={{ duration: 2, delay: 0 }}
-                className="h-[100px] absolute top-[-10px] left-[75px] border-[7px] border-[#74a4a3] border-solid border-t-0 border-b-0 border-r-0"
+                className="absolute top-[-10px] left-[75px] border-[7px] border-[#74a4a3] border-solid border-t-0 border-b-0 border-r-0"
               />
               <motion.div
-                initial={{ opacity: 0 }}
-                whileInView={{ opacity: 1 }}
+                initial={{ width: 0, height: 0 }}
+                whileInView={{ width: "70px", height: "0" }}
                 viewport={{ once: true }}
                 transition={{ duration: 2, delay: 0 }}
-                className="w-[70px] absolute top-[130px] left-[120px] border-[7px] border-[#74a4a3] border-solid border-l-0 border-b-0 border-r-0"
+                className="absolute top-[130px] left-[120px] border-[7px] border-[#74a4a3] border-solid border-l-0 border-b-0 border-r-0"
               />
               <div className='relative w-full flex pt-[30px] z-[9]'>
                 <div className='w-[50%]'>
@@ -654,18 +654,18 @@ export default function AllYouNeed() {
             </div>
             <div class="relative">
               <motion.div
-                initial={{ opacity: 0 }}
-                whileInView={{ opacity: 1 }}
+                initial={{ width: 0, height: 0 }}
+                whileInView={{ width: 0, height: "100px" }}
                 viewport={{ once: true }}
                 transition={{ duration: 2, delay: 0 }}
-                className="h-[100px] absolute top-[-10px] right-[75px] border-[7px] border-[#74a4a3] border-solid border-t-0 border-b-0 border-r-0"
+                className="absolute top-[-10px] right-[75px] border-[7px] border-[#74a4a3] border-solid border-t-0 border-b-0 border-r-0"
               />
               <motion.div
-                initial={{ opacity: 0 }}
-                whileInView={{ opacity: 1 }}
+                initial={{ width: 0, height: 0 }}
+                whileInView={{ width: "70px", height: "0" }}
                 viewport={{ once: true }}
                 transition={{ duration: 2, delay: 0 }}
-                className="w-[70px] absolute top-[130px] right-[120px] border-[7px] border-[#74a4a3] border-solid border-l-0 border-b-0 border-r-0"
+                className="absolute top-[130px] right-[120px] border-[7px] border-[#74a4a3] border-solid border-l-0 border-b-0 border-r-0"
               />
               <div className='relative w-full flex pt-[30px] z-[9]'>
                 <div className='w-[50%]'>
