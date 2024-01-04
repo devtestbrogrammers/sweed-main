@@ -704,7 +704,7 @@ export default function AllYouNeed() {
                       sizes="100vw"
                       className="w-[105px] h-[105px] lg:w-[165px] lg:h-[165px]"
                     />
-                  </motion.div>
+                  </motion.div> 
                 </div>
               </div>
             </div>
