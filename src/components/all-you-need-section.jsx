@@ -390,10 +390,10 @@ export default function AllYouNeed() {
               <div className='relative w-full flex pt-[30px] z-[9]'>
                 <div className='w-[50%]'>
                   <motion.div
-                    initial={{ scale: 0 }}
-                    whileInView={{ scale: 1 }}
+                    initial={{ opacity: 0 }}
+                    whileInView={{ opacity: 1 }}
                     viewport={{ once: true }}
-                    transition={{ duration: 0.1, delay: 0 }}
+                    transition={{ duration: 1, delay: 0 }}
                     style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "flex-end", height: "100%", gap: "15px" }}
                   >
                     <span className='t-heading-6 lg:!leading-[26px] text-white opacity-90'>Point of Sale</span>
@@ -409,10 +409,10 @@ export default function AllYouNeed() {
                 </div>
                 <div className='w-[50%]'>
                   <motion.div
-                    initial={{ scale: 0 }}
-                    whileInView={{ scale: 1 }}
+                    initial={{ opacity: 0 }}
+                    whileInView={{ opacity: 1 }}
                     viewport={{ once: true }}
-                    transition={{ duration: 0.1, delay: 0.5 }}
+                    transition={{ duration: 1, delay: 0.5 }}
                     style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "flex-end", height: "100%", gap: "15px" }}
                   >
                     <span className='t-heading-6 lg:!leading-[26px] text-white opacity-90'>E-Commerce</span>
@@ -446,10 +446,10 @@ export default function AllYouNeed() {
               <div className='relative w-full flex pt-[30px] z-[9]'>
                 <div className='w-[50%]'>
                   <motion.div
-                    initial={{ scale: 0 }}
-                    whileInView={{ scale: 1 }}
+                    initial={{ opacity: 0 }}
+                    whileInView={{ opacity: 1 }}
                     viewport={{ once: true }}
-                    transition={{ duration: 0.1, delay: 0 }}
+                    transition={{ duration: 1, delay: 0.5 }}
                     style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "flex-end", height: "100%", gap: "15px" }}
                   >
                     <span className='t-heading-6 lg:!leading-[26px] text-white opacity-90'>Marketing & Loyalty</span>
@@ -465,10 +465,10 @@ export default function AllYouNeed() {
                 </div>
                 <div className='w-[50%]'>
                   <motion.div
-                    initial={{ scale: 0 }}
-                    whileInView={{ scale: 1 }}
+                    initial={{ opacity: 0 }}
+                    whileInView={{ opacity: 1 }}
                     viewport={{ once: true }}
-                    transition={{ duration: 0.1, delay: 0.5 }}
+                    transition={{ duration: 1, delay: 0 }}
                     style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "flex-end", height: "100%", gap: "15px" }}
                   >
                     <span className='t-heading-6 lg:!leading-[26px] text-white opacity-90'>Data & Business <br/>Intelligence</span>
@@ -502,10 +502,10 @@ export default function AllYouNeed() {
               <div className='relative w-full flex pt-[30px] z-[9]'>
                 <div className='w-[50%]'>
                   <motion.div
-                    initial={{ scale: 0 }}
-                    whileInView={{ scale: 1 }}
+                    initial={{ opacity: 0 }}
+                    whileInView={{ opacity: 1 }}
                     viewport={{ once: true }}
-                    transition={{ duration: 0.1, delay: 0 }}
+                    transition={{ duration: 1, delay: 0 }}
                     style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "flex-end", height: "100%", gap: "15px" }}
                   >
                     <span className='t-heading-6 lg:!leading-[26px] text-white opacity-90'>Inventory <br/>Management</span>
@@ -521,10 +521,10 @@ export default function AllYouNeed() {
                 </div>
                 <div className='w-[50%]'>
                   <motion.div
-                    initial={{ scale: 0 }}
-                    whileInView={{ scale: 1 }}
+                    initial={{ opacity: 0 }}
+                    whileInView={{ opacity: 1 }}
                     viewport={{ once: true }}
-                    transition={{ duration: 0.1, delay: 0.5 }}
+                    transition={{ duration: 1, delay: 0.5 }}
                     style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "flex-end", height: "100%", gap: "15px" }}
                   >
                     <span className='t-heading-6 lg:!leading-[26px] text-white opacity-90'>Customer <br/>Management</span>
@@ -558,10 +558,10 @@ export default function AllYouNeed() {
               <div className='relative w-full flex pt-[30px] z-[9]'>
                 <div className='w-[50%]'>
                   <motion.div
-                    initial={{ scale: 0 }}
-                    whileInView={{ scale: 1 }}
+                    initial={{ opacity: 0 }}
+                    whileInView={{ opacity: 1 }}
                     viewport={{ once: true }}
-                    transition={{ duration: 0.1, delay: 0 }}
+                    transition={{ duration: 1, delay: 0.5 }}
                     style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "flex-end", height: "100%", gap: "15px" }}
                   >
                     <span className='t-heading-6 lg:!leading-[26px] text-white opacity-90'>Delivery</span>
@@ -577,10 +577,10 @@ export default function AllYouNeed() {
                 </div>
                 <div className='w-[50%]'>
                   <motion.div
-                    initial={{ scale: 0 }}
-                    whileInView={{ scale: 1 }}
+                    initial={{ opacity: 0 }}
+                    whileInView={{ opacity: 1 }}
                     viewport={{ once: true }}
-                    transition={{ duration: 0.1, delay: 0.5 }}
+                    transition={{ duration: 1, delay: 0 }}
                     style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "flex-end", height: "100%", gap: "15px" }}
                   >
                     <span className='t-heading-6 lg:!leading-[26px] text-white opacity-90'>Integrations</span>
@@ -614,10 +614,10 @@ export default function AllYouNeed() {
               <div className='relative w-full flex pt-[30px] z-[9]'>
                 <div className='w-[50%]'>
                   <motion.div
-                    initial={{ scale: 0 }}
-                    whileInView={{ scale: 1 }}
+                    initial={{ opacity: 0 }}
+                    whileInView={{ opacity: 1 }}
                     viewport={{ once: true }}
-                    transition={{ duration: 0.1, delay: 0 }}
+                    transition={{ duration: 1, delay: 0 }}
                     style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "flex-end", height: "100%", gap: "15px" }}
                   >
                     <span className='t-heading-6 lg:!leading-[26px] text-white opacity-90'>Discount Engine</span>
@@ -633,10 +633,10 @@ export default function AllYouNeed() {
                 </div>
                 <div className='w-[50%]'>
                   <motion.div
-                    initial={{ scale: 0 }}
-                    whileInView={{ scale: 1 }}
+                    initial={{ opacity: 0 }}
+                    whileInView={{ opacity: 1 }}
                     viewport={{ once: true }}
-                    transition={{ duration: 0.1, delay: 0.5 }}
+                    transition={{ duration: 1, delay: 0.5 }}
                     style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "flex-end", height: "100%", gap: "15px" }}
                   >
                     <span className='t-heading-6 lg:!leading-[26px] text-white opacity-90'>Integrated <br/>Payments</span>
@@ -670,10 +670,10 @@ export default function AllYouNeed() {
               <div className='relative w-full flex pt-[30px] z-[9]'>
                 <div className='w-[50%]'>
                   <motion.div
-                    initial={{ scale: 0 }}
-                    whileInView={{ scale: 1 }}
+                    initial={{ opacity: 0 }}
+                    whileInView={{ opacity: 1 }}
                     viewport={{ once: true }}
-                    transition={{ duration: 0.1, delay: 0 }}
+                    transition={{ duration: 1, delay: 0 }}
                     style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "flex-end", height: "100%", gap: "15px" }}
                   >
                     <span className='t-heading-6 lg:!leading-[26px] text-white opacity-90'>In-Store Screens</span>
@@ -689,10 +689,10 @@ export default function AllYouNeed() {
                 </div>
                 <div className='w-[50%]'>
                   <motion.div
-                    initial={{ scale: 0 }}
-                    whileInView={{ scale: 1 }}
+                    initial={{ opacity: 0 }}
+                    whileInView={{ opacity: 1 }}
                     viewport={{ once: true }}
-                    transition={{ duration: 0.1, delay: 0.5 }}
+                    transition={{ duration: 1, delay: 0.5 }}
                     style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "flex-end", height: "100%", gap: "15px" }}
                   >
                     <span className='t-heading-6 lg:!leading-[26px] text-white opacity-90'>Distribution & <br/>Logistics</span>
@@ -704,7 +704,7 @@ export default function AllYouNeed() {
                       sizes="100vw"
                       className="w-[105px] h-[105px] lg:w-[165px] lg:h-[165px]"
                     />
-                  </motion.div> 
+                  </motion.div>
                 </div>
               </div>
             </div>
